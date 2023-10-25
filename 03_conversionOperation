@@ -53,8 +53,8 @@ let someNumber = 33
 // console.log(2%2);
 
 
-// let str1 = "alfiya"
-// let str2 = "sayyad"
+ let str1 = "alfiya"
+let str2 = "sayyad"
 
  let str3 = str1 + str2
 // console.log(str3);
